@@ -1,0 +1,16 @@
+C:\Users\Administrator\Desktop\Seker Patlatma\Oyun\SekerPatlatma\SekerPatlatma.Desktop\bin\Debug\SekerPatlatma.Desktop.exe.config
+C:\Users\Administrator\Desktop\Seker Patlatma\Oyun\SekerPatlatma\SekerPatlatma.Desktop\bin\Debug\SekerPatlatma.Desktop.exe
+C:\Users\Administrator\Desktop\Seker Patlatma\Oyun\SekerPatlatma\SekerPatlatma.Desktop\bin\Debug\SekerPatlatma.Desktop.pdb
+C:\Users\Administrator\Desktop\Seker Patlatma\Oyun\SekerPatlatma\SekerPatlatma.Desktop\obj\Debug\SekerPatlatma.Desktop.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\Seker Patlatma\Oyun\SekerPatlatma\SekerPatlatma.Desktop\obj\Debug\SekerPatlatma.Desktop.ColorSelectionForm.resources
+C:\Users\Administrator\Desktop\Seker Patlatma\Oyun\SekerPatlatma\SekerPatlatma.Desktop\obj\Debug\SekerPatlatma.Desktop.GameForm.resources
+C:\Users\Administrator\Desktop\Seker Patlatma\Oyun\SekerPatlatma\SekerPatlatma.Desktop\obj\Debug\SekerPatlatma.Desktop.GirisEkrani.resources
+C:\Users\Administrator\Desktop\Seker Patlatma\Oyun\SekerPatlatma\SekerPatlatma.Desktop\obj\Debug\SekerPatlatma.Desktop.Properties.Resources.resources
+C:\Users\Administrator\Desktop\Seker Patlatma\Oyun\SekerPatlatma\SekerPatlatma.Desktop\obj\Debug\SekerPatlatma.Desktop.Resource1.resources
+C:\Users\Administrator\Desktop\Seker Patlatma\Oyun\SekerPatlatma\SekerPatlatma.Desktop\obj\Debug\SekerPatlatma.Desktop.TopScoresForm.resources
+C:\Users\Administrator\Desktop\Seker Patlatma\Oyun\SekerPatlatma\SekerPatlatma.Desktop\obj\Debug\SekerPatlatma.Desktop.csproj.GenerateResource.cache
+C:\Users\Administrator\Desktop\Seker Patlatma\Oyun\SekerPatlatma\SekerPatlatma.Desktop\obj\Debug\SekerPatlatma.Desktop.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\Seker Patlatma\Oyun\SekerPatlatma\SekerPatlatma.Desktop\obj\Debug\SekerPatlatma.Desktop.exe
+C:\Users\Administrator\Desktop\Seker Patlatma\Oyun\SekerPatlatma\SekerPatlatma.Desktop\obj\Debug\SekerPatlatma.Desktop.pdb
+C:\Users\Administrator\Desktop\Seker Patlatma\Oyun\SekerPatlatma\SekerPatlatma.Desktop\obj\Debug\SekerPatlatma.Desktop.InfoForm.resources
+C:\Users\Administrator\Desktop\Seker Patlatma\Oyun\SekerPatlatma\SekerPatlatma.Desktop\obj\Debug\SekerPatlatma.Desktop.ColorSelectionBaseForm.resources

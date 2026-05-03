@@ -1,0 +1,11 @@
+C:\Users\Administrator\Desktop\Seker Patlatma\Oyun\SekerPatlatma\SekerPatlatma.Library\bin\Debug\net8.0\SekerPatlatma.Library.deps.json
+C:\Users\Administrator\Desktop\Seker Patlatma\Oyun\SekerPatlatma\SekerPatlatma.Library\bin\Debug\net8.0\SekerPatlatma.Library.dll
+C:\Users\Administrator\Desktop\Seker Patlatma\Oyun\SekerPatlatma\SekerPatlatma.Library\bin\Debug\net8.0\SekerPatlatma.Library.pdb
+C:\Users\Administrator\Desktop\Seker Patlatma\Oyun\SekerPatlatma\SekerPatlatma.Library\obj\Debug\net8.0\SekerPatlatma.Library.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Desktop\Seker Patlatma\Oyun\SekerPatlatma\SekerPatlatma.Library\obj\Debug\net8.0\SekerPatlatma.Library.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\Seker Patlatma\Oyun\SekerPatlatma\SekerPatlatma.Library\obj\Debug\net8.0\SekerPatlatma.Library.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\Seker Patlatma\Oyun\SekerPatlatma\SekerPatlatma.Library\obj\Debug\net8.0\SekerPatlatma.Library.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\Seker Patlatma\Oyun\SekerPatlatma\SekerPatlatma.Library\obj\Debug\net8.0\SekerPatlatma.Library.dll
+C:\Users\Administrator\Desktop\Seker Patlatma\Oyun\SekerPatlatma\SekerPatlatma.Library\obj\Debug\net8.0\refint\SekerPatlatma.Library.dll
+C:\Users\Administrator\Desktop\Seker Patlatma\Oyun\SekerPatlatma\SekerPatlatma.Library\obj\Debug\net8.0\SekerPatlatma.Library.pdb
+C:\Users\Administrator\Desktop\Seker Patlatma\Oyun\SekerPatlatma\SekerPatlatma.Library\obj\Debug\net8.0\ref\SekerPatlatma.Library.dll
