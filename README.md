@@ -36,16 +36,6 @@ The game allows users to match elements on a grid, calculate scores, and manage 
 - Scores are calculated based on successful matches
 - Game state is continuously managed during gameplay
 
-## Project Structure
-
-    CandyCrushGame/
-    ├── Form1.cs
-    ├── GameLogic.cs
-    ├── GridManager.cs
-    ├── Models/
-    ├── Assets/
-    └── README.md
-
 ## How to Run
 
 1. Open the project in Visual Studio
